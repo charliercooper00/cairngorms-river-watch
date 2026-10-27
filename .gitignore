@@ -1,0 +1,8 @@
+data/*.sqlite
+__pycache__/
+.pytest_cache/
+.Rproj.user/
+.Rhistory
+*.Rproj
+.venv/
+.DS_Store

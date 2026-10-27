@@ -1,0 +1,4 @@
+[["station_no","station_name","catchment_name","station_latitude","station_longitude","ts_id","ts_path","ts_unitsymbol","ca_sta"],
+["10001","Example Upper","Dee (Aberdeenshire)","57.00","-3.40","111","1/10001/SG/15m.Cmd","m",[{"sepa_median_annual_minimum_level":"0.30","sepa_median_annual_maximum_level":"1.90","sepa_maximum_level":"3.10","sepa_maximum_level_timestamp":"2015-12-30T10:00:00.000Z"}]],
+["10002","Example Spey","Spey","57.10","-3.90","222","1/10002/SG/15m.Cmd","m",{"sepa_median_annual_minimum_level":"0.25","sepa_median_annual_maximum_level":"2.40"}],
+["10003","Example Glasgow","Clyde","55.86","-4.25","333","1/10003/SG/15m.Cmd","m",[]]]
